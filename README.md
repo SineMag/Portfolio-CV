@@ -1,4 +1,4 @@
-https://socialify.git.ci/SineMag/Portfolio-CV/image?language=1&owner=1&name=1&stargazers=1&theme=Light
+<img src="https://socialify.git.ci/SineMag/Portfolio-CV/image?language=1&owner=1&name=1&stargazers=1&theme=Light" alt="Portfolio-CV" width="640" height="320" />
 
 # Professional Online CV
 
