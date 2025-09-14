@@ -1,3 +1,5 @@
+https://socialify.git.ci/SineMag/Portfolio-CV/image?language=1&owner=1&name=1&stargazers=1&theme=Light
+
 # Professional Online CV
 
 A clean, responsive, and modern HTML/CSS/JS curriculum vitae hosted on GitHub Pages.
